@@ -2,7 +2,7 @@
 
 | Date       | Completed Task                                                                                                                                                                               | Pending Task                    |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
-| 24.07.2023 | - Acquired knowledge of essential tech stacks utilized in the company's diverse modules.                                                                                                    | -                               |
+| 24.07.2023 | - Acquired knowledge of essential tech stacks utilized in the company's diverse modules.                                                                                                    |                            |
 |            | - Commenced learning foundational concepts of Core Java and Object-Oriented Programming (OOPs).                                                                                             |                                 |
 |            | - Familiarized with relevant frameworks, enhancing theoretical understanding.                                                                                                               |                                 |
 | 25.07.2023 | - Explored Object-Oriented Programming (OOPs) principles and successfully applied them in various programs.                                                                               | <span style="color: #FF9999;">- Installation of RDBMS software on PC.</span>         |
