@@ -1,5 +1,7 @@
 # Internship Daily Logs
 
+## GOOD JOB DOIWALA!
+
 | Date       | Completed Task                                                                                                                                                                               | Pending Task                    |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
 | 24.07.2023 | - Acquired knowledge of essential tech stacks utilized in the company's diverse modules.                                                                                                    | -                               |
