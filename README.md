@@ -1,7 +1,5 @@
 # Internship Daily Logs
 
-
-
 | Date       | Completed Task                                                                                                                                                                               | Pending Task                    |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
 | 24.07.2023 | - Acquired knowledge of essential tech stacks utilized in the company's diverse modules.                                                                                                    | -                               |
@@ -19,7 +17,7 @@
 | 27.07.2023 | - Acquired knowledge of SQL concepts such as constraints, joints, and sorting for querying and managing large databases, and implementing queries in PL/SQL for practical application. | <span style="color: #FF9999;">[🟢] pending task completed</span>    |
 |            | - Efficiently installed PL/SQL on my local machine using VirtualBox, ensuring a functional and isolated development environment.                                                            |                                 |
 |            | - Practiced essential Unix commands on VirtualBox, honing my skills in basic command-line operations for increased proficiency.                                                             |                                 |
-| 31.07.2023 | - Initiated the process of integrating the MERN stack into the current portal services.                                                                                                  | |
+| 31.07.2023 | - Initiated the process of integrating the MERN stack into the current portal services.                                                                                                  | <span style="color: #FF9999;">- Explored different domains, technologies, and potential user needs to inspire a unique and impactful project idea.</span> |
 |            | - Explored strategies to enhance the performance of the portal for a smoother user experience.                                                                                            |                                 |
 |            | - Delved into the challenges encountered by both customers and administrators when utilizing and administering the portal.                                                               |                                 |
 |            | - Acquired insights into the company's dataset concerning user information and gained an understanding of their data maintenance practices.                                              |                                 |
@@ -39,3 +37,8 @@
 |            | - Engaged senior colleagues for guidance, seeking their expertise to define the essential database parameters necessary for the project's operation.                               |                                 |
 |            | - Encountered challenges while working with MongoDB Atlas, prompting the utilization of official documentation to troubleshoot and address the issues.                            |                                 |
 |            | - Successfully resolved bugs and glitches that emerged during the database and collection creation process, enhancing the project's stability and reliability.                 |                                 |
+| 04.08.2023 | - Commenced the development process by setting up a basic React application, utilizing the React Node modules to establish the initial framework.                                      |                                 |
+|            | - Leveraged video tutorials to gain a comprehensive understanding of the project's overall flow, enabling a clear path forward in the development process.                       |                                 |
+|            | - Strategically chose to prioritize the implementation of user authentication and data storage for the initial phase of the project.                                                  |                                 |
+|            | - Opted to utilize MongoDB Atlas for securely storing user data, recognizing its suitability for the project's needs.                                                                   |                                 |
+|            | - Decided to focus on creating a basic yet functional user interface (UI) for the login and signup pages, keeping the design simple and intuitive.                                 |                                 |
